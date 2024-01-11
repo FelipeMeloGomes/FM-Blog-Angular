@@ -10,6 +10,10 @@ O projeto é dedicado a oferecer uma plataforma simples e funcional para compart
 
 - Seu Nome (@felipeMelo)
 
+## Ajuda
+
+- O projeto atual não esta rederizando componente dinãmico na página.
+
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](link-para-licenca).
